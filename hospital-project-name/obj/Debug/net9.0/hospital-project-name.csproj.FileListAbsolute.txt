@@ -1,0 +1,14 @@
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\bin\Debug\net9.0\hospital-project-name.exe
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\bin\Debug\net9.0\hospital-project-name.deps.json
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\bin\Debug\net9.0\hospital-project-name.runtimeconfig.json
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\bin\Debug\net9.0\hospital-project-name.dll
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\bin\Debug\net9.0\hospital-project-name.pdb
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\hospital-project-name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\hospital-project-name.AssemblyInfoInputs.cache
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\hospital-project-name.AssemblyInfo.cs
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\hospital-project-name.csproj.CoreCompileInputs.cache
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\hospital-project-name.dll
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\refint\hospital-project-name.dll
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\hospital-project-name.pdb
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\hospital-project-name.genruntimeconfig.cache
+C:\Users\sar1k\Desktop\hospital-management-system\hospital-project-name\obj\Debug\net9.0\ref\hospital-project-name.dll
